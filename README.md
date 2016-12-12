@@ -1,1 +1,0 @@
-# BacktrackingAlgorithm_in_C
